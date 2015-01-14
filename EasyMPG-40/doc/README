@@ -1,0 +1,19 @@
+
+Keep a record of your vehicle's gas mileage and other expenses, all in your pocket! 
+
+EasyMPG provides a simple and easy-to-use way of keep a record of all your vehicle fuel fillups.
+All you need to do is put in the price of fuel per unit, the total cost of the fillup, and the current odemeter mileage.
+
+EasyMPG does the rest for you, organizing the information in a list. It calculates the mpg that your
+vehicle got since your last fuel fill-up, as well as your vehicle's average MPG rate. It also provides a handful of basic statistics 
+that can help you budget out expenses for you vehicle, such as your estimated annual, monthly, weekly, and daily costs of fuel, 
+as well as the estimated number of miles that your vehicles puts on each year.  
+
+How does it work?
+	1. Fill your tank completely (mpg can only be calculated after a complete fillup)
+		- If you don't fill it completely, still log the information but uncheck the "filled completely" checkbox. 
+		- After your second complete fillup,you can review your mpg value.
+	
+	2. Keep logging all of your fillups.
+	
+	3. See the statistics and estimations for your vehicle. 

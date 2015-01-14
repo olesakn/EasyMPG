@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EasyMPG</string>
+    <string name="app_version_code">402017</string>
+    <string name="app_version_name">2.1.7</string>
+    <string name="app_version_date">December 2014</string>
+    <string name="title_activity_fillup">Add New Fillup</string>
+    <string name="title_activity_vehicle">Vehicles</string>
+    <string name="title_activity_cost">Costs</string>
+    <string name="title_activity_settings">Settings</string>
+</resources>

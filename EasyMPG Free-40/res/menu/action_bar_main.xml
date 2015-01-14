@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item android:id="@+id/action_add"
+          android:icon="@drawable/ic_action_new"
+          android:title="Add Fillup"
+          android:showAsAction="always" />"
+    
+    <item
+        android:id="@+id/action_overflow_settings"
+        android:icon="@drawable/ic_action_overflow"
+        android:orderInCategory="11111"
+        android:title="More"
+        android:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/action_edit_vehicle"
+                android:icon="@drawable/ic_action_edit"
+                android:showAsAction="never"
+                android:title="Edit Vehicle"/>
+            <item
+                android:id="@+id/action_delete_vehicle"
+                android:icon="@drawable/ic_action_discard"
+                android:showAsAction="never"
+                android:title="Delete Vehicle"/>
+            <item
+                android:id="@+id/action_upgrade_to_pro"
+                android:icon="@drawable/ic_action_accounts"
+                android:showAsAction="never"
+                android:title="Get Full Version"/>
+            <item
+                android:id="@+id/action_settings"
+                android:icon="@drawable/ic_action_settings"
+                android:showAsAction="never"
+                android:title="Options"/>
+        </menu>
+    </item>
+</menu>
