@@ -1,6 +1,5 @@
--- ================================
--- EasyMPG Android Application
--- ===============================
+
+EasyMPG Android Application
 
 - Author: Nicholas Olesak
 - Created: Summer 2012
